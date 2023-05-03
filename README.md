@@ -1,2 +1,6 @@
 # TodoCalendar
-TodoApp with a calendar, and SQL database, including user login
+TodoApp with a calendar
+Design: HTML5, CSS3, Bootstrap5
+FrontEnd: JavaScript, JQuery, Ajax
+BackEnd: PHP, SQL
+DB: MySQL
